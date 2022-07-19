@@ -6,5 +6,5 @@ spring:
     password: '{cipher}9389987a83d88baf7e892a4d3b02ba77d63333bc991842bee5d69e936c06a20e'
 
 token:
-  expriation_time: 864000000
+  expiration_time: 864000000
   secret: user_token_user_service
